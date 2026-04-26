@@ -1,0 +1,19 @@
+2026-04-26 12:39:38,674 - IndustrialTextEncoder - INFO - 成功加载PYN文件夹类别：287个
+2026-04-26 12:39:38,726 - IndustrialTextEncoder - INFO - 神经网络层初始化完成，词汇表大小：287，输出维度：512
+2026-04-26 12:39:38,730 - IndustrialTextEncoder - INFO - IndustrialTextEncoder 初始化完成，加载类别数：287
+2026-04-26 12:39:49,670 - IndustrialTextEncoder - INFO - 文本匹配成功：汽车 → car
+2026-04-26 12:39:49,678 - IndustrialTextEncoder - INFO - 单文本编码完成：汽车... → car → 向量维度torch.Size([512])
+2026-04-26 12:41:36,407 - IndustrialTextEncoder - INFO - 成功加载PYN文件夹类别：287个
+2026-04-26 12:41:36,433 - IndustrialTextEncoder - INFO - 神经网络层初始化完成，词汇表大小：287，输出维度：512
+2026-04-26 12:41:36,451 - IndustrialTextEncoder - INFO - IndustrialTextEncoder 初始化完成，加载类别数：287
+2026-04-26 12:44:46,748 - IndustrialTextEncoder - INFO - 成功加载PYN文件夹类别：287个
+2026-04-26 12:44:46,764 - IndustrialTextEncoder - INFO - 神经网络层初始化完成，词汇表大小：287，输出维度：512
+2026-04-26 12:44:46,773 - IndustrialTextEncoder - INFO - IndustrialTextEncoder 初始化完成，加载类别数：287
+2026-04-26 12:46:11,049 - IndustrialTextEncoder - INFO - 成功加载PYN文件夹类别：287个
+2026-04-26 12:46:11,088 - IndustrialTextEncoder - INFO - 神经网络层初始化完成，词汇表大小：287，输出维度：512
+2026-04-26 12:46:11,095 - IndustrialTextEncoder - INFO - IndustrialTextEncoder 初始化完成，加载类别数：287
+2026-04-26 12:47:46,493 - IndustrialTextEncoder - INFO - 成功加载PYN文件夹类别：287个
+2026-04-26 12:47:46,557 - IndustrialTextEncoder - INFO - 神经网络层初始化完成，词汇表大小：287，输出维度：512
+2026-04-26 12:47:46,570 - IndustrialTextEncoder - INFO - IndustrialTextEncoder 初始化完成，加载类别数：287
+2026-04-26 13:08:04,157 - IndustrialTextEncoder - WARNING - 文本水杯无匹配类别，返回默认：airplane
+2026-04-26 13:08:04,183 - IndustrialTextEncoder - INFO - 单文本编码完成：水杯... → airplane → 向量维度torch.Size([512])
